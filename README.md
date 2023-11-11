@@ -66,3 +66,8 @@ python manage.py runserver localhost:8000
 ![image](https://github.com/siddhantdixit/MicrosoftOutlookAuthApp/assets/22856752/865d0f77-2000-4daa-a4a7-758b46daca4e)
 
 ![image](https://github.com/siddhantdixit/MicrosoftOutlookAuthApp/assets/22856752/2bf0b348-e7e2-4e20-b5f3-200fef407bad)
+
+![image](https://github.com/siddhantdixit/MicrosoftOutlookAuthApp/assets/22856752/250c2812-0313-44b4-958f-c4b364b695a6)
+
+![image](https://github.com/siddhantdixit/MicrosoftOutlookAuthApp/assets/22856752/1e479e44-68c4-48db-a8a3-e8479088a13f)
+
