@@ -13,6 +13,9 @@
 {% block text %}
     {% if request.identity_context_data.authenticated %}
         Click here to get your <a class="btn btn-info p-1" href="{% url 'token_details' %}">ID Token Details</a>
+        <div> <span>Email: </span><input value="{{ user_details.email }}" readonly style="width: 100%;"/> </div>
+        <br>
+        <div> <span>Name: </span><input value="{{ user_details.first_name }}" readonly style="width: 100%;"/> </div>
     {% else %}
         Use the button on the top right to sign in. <br/>
         Attempts to get your <a href="{% url 'token_details' %}">ID Token Details</a>
